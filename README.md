@@ -1,9 +1,8 @@
 # ML-MT-WebApp
 
-❓ ***Let me know on LinkedIn if you guys want this project to be deployed with Docker and Kubernetes***
 
-<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" />
-<p> This is one of major project of my undergraduate degree program.</p>
+
+<img src="https://cdn.activestate.com/wp-content/uploads/2018/10/machine-learning-healthcare-blog-hero-1200x799.jpg" width="1100" height="300" 
 <p>Here, I have developed a disease predicting web app which using the concept of machine learning makes predictions about various diseases like Malaria, Pneumonia, Diabetes etc.</p>
 
 <hr>
@@ -64,5 +63,5 @@
   
   <p> The whole project is deployed on Heroku Cloud.
   
- <p> Here is the link where you can access the project live : https://myml-mtapp.herokuapp.com/ <p>
+ 
   <p> Thank you!</p>
